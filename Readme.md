@@ -12,11 +12,11 @@
 <!-- Quick Intro Section -->
 <div align="center">
 
-<b>name:</b> Sahil Yuvraj Kamble  
-<b>location:</b> Kolhapur, Maharashtra 🇮🇳  
-<b>education:</b> IIT Roorkee | Chemical Engineering  
-<b>interests:</b> Full-Stack Development, Competitive Programming, Open Source  
-<b>currently:</b> Building scalable web applications & solving algorithmic challenges
+<b>Name:</b> Sahil Yuvraj Kamble  
+<b>Location:</b> Kolhapur, Maharashtra 🇮🇳  
+<b>Education:</b> IIT Roorkee | Chemical Engineering  
+<b>Interest:</b> Full-Stack Development, Competitive Programming, Open Source  
+<b>Currently:</b> Building scalable web applications & solving algorithmic challenges
 
 </div>
 
@@ -120,10 +120,9 @@
 
 ```js
 const sahil = {
-  currentlyLearning: ["System Design", "WebRTC", "Advanced DSA"],
+  currentlyLearning: ["AI/ML, "WebRTC", "Competitive programming"],
   workingOn: ["Slotify - Smart Scheduling App", "Personal Portfolio v3"],
   lookingFor: ["SDE Internships", "Open Source Collaborations"],
-  funFact: "I debug code faster with coffee ☕"
 };
 ```
 
