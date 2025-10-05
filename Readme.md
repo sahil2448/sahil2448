@@ -154,7 +154,7 @@ const sahil = {
 
 <br>
 
-<!-- Footer Animation -->
+<!-- Footer Animation -->;
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38B2AC&center=true&vCenter=true&random=false&width=600&lines=Always+learning%2C+building%2C+exploring;Open+to+collaboration+%F0%9F%A4%9D;Let's+build+something+amazing!+%F0%9F%9A%80" alt="Footer" />
 </div>
