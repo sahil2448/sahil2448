@@ -1,9 +1,8 @@
-## 👋 Hi, I’m Sahil Yuvraj Kamble
+Sahil Yuvraj Kamble
 
-I’m a tech enthusiast from Kolhapur, Maharashtra, currently in my 3rd year at IIT Roorkee.  
-I love building products, exploring new technologies, and sharpening my skills through projects and competitive programming.  
-Active in hackathons and clubs like TEDxIITRoorkee and NSS IIT Roorkee, I’m always eager to collaborate on impactful ideas.  
+Tech enthusiast • 3rd Year @ IIT Roorkee • Kolhapur, Maharashtra
 
+I'm passionate about building products, learning new technologies, and sharpening my problem‑solving through projects and competitive programming. I enjoy participating in hackathons and contributing to campus initiatives like TEDxIITRoorkee and NSS IIT Roorkee. Always open to collaborating on meaningful ideas and making things that people actually use.
 ---
 
 ## 🚀 My Tech Stack
