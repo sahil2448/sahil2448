@@ -1,29 +1,60 @@
-<!-- Sahil Yuvraj Kamble | Tech Portfolio -->
+<!-- Sahil Yuvraj Kamble | Developer Portfolio -->
 
 <div align="center">
 
-<!-- Main Animated Header -->
+<!-- Animated Header -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=32&pause=50&color=26ec50&center=true&vCenter=true&random=false&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Sahil+Yuvraj+Kamble!;Full-Stack+Developer+%7C+Problem+Solver;3rd+Year+%40+IIT+Roorkee+%F0%9F%8F%9B%EF%B8%8F;Building+Products+That+Matter+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
 <br>
 
-<!-- Quick Intro Section -->
+<!-- Quick Profile -->
 <div align="center">
 
-<b>Name:</b> Sahil Yuvraj Kamble  
-<b>Location:</b> Kolhapur, Maharashtra 🇮🇳  
-<b>Education:</b> IIT Roorkee | Chemical Engineering  
-<b>Interest:</b> Full-Stack Development, Competitive Programming, Open Source  
-<b>Currently:</b> Building scalable web applications & solving algorithmic challenges
+<h2>👋 Welcome to my GitHub Profile!</h2>
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**🎓 Education**  
+Chemical Engineering  
+IIT Roorkee
+
+</td>
+<td align="center" width="50%">
+
+**📍 Location**  
+Kolhapur, Maharashtra  
+India 🇮🇳
+
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+
+**💻 Full-Stack Developer | 🧩 Competitive Programmer | 🌐 Open Source Enthusiast**
+
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+
+🚀 Building scalable web applications and solving algorithmic challenges
+
+</td>
+</tr>
+</table>
 
 </div>
 
 <br>
 
-<!-- Highlights Banner -->
+<!-- Affiliation Badges -->
 <div align="center">
+
+<h3>🏆 Affiliations & Activities</h3>
 
 <a href="https://tedxiitroorkee.com">
   <img src="https://img.shields.io/badge/TEDxIITRoorkee-Web_Team-EB0028?style=for-the-badge&logo=ted&logoColor=white" alt="TEDx Badge"/>
@@ -39,27 +70,26 @@
 
 <br>
 
-<!-- About Me -->
-<div align="center">
+---
 
-### 🚀 About Me
+## 👨‍💻 About Me
 
-**Passionate builder** focused on creating meaningful digital products  
-💻 **Full-stack expertise** with MERN & Next.js ecosystems  
-🧩 **Problem solver** grinding competitive programming challenges  
-🎯 **Active contributor** to campus tech communities & hackathons  
-🤝 **Open to collaborate** on impactful projects & innovative ideas
+I'm a passionate software developer and third-year Chemical Engineering student at IIT Roorkee, with a strong focus on full-stack development and competitive programming. I thrive on building meaningful digital products that solve real-world problems.
 
-</div>
+**What drives me:**
+- 💡 Creating impactful web applications with modern technologies
+- 🧠 Tackling complex algorithmic challenges
+- 🌐 Contributing to open-source projects and tech communities
+- 🤝 Collaborating on innovative ideas and meaningful projects
+- 📚 Continuous learning and skill development
 
 ---
 
-## 💻 Tech Arsenal
+## 🛠️ Technical Skills
 
 <div align="center">
 
-<!-- Frontend -->
-**Frontend & Frameworks**
+### **Frontend Development**
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
@@ -69,7 +99,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
-**Styling & UI**
+### **Styling & UI Libraries**
 
 <p>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
@@ -79,22 +109,25 @@
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP"/>
 </p>
 
-**Backend & Database**
+### **Backend & Databases**
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
 </p>
 
-**Languages & Tools**
+### **Programming Languages & Tools**
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
 </p>
 
@@ -102,12 +135,13 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=sahil2448&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9" alt="GitHub Stats" height="170"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahil2448&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" height="170"/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil2448&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9" alt="Top Languages" height="170"/>
 
 </div>
@@ -118,11 +152,12 @@
 
 <div align="center">
 
-```js
+```javascript
 const sahil = {
-  currentlyLearning: ["AI/ML, "WebRTC", "Competitive programming"],
+  currentlyLearning: ["AI/ML", "WebRTC", "Competitive Programming"],
   workingOn: ["Slotify - Smart Scheduling App", "Personal Portfolio v3"],
   lookingFor: ["SDE Internships", "Open Source Collaborations"],
+  goals2025: ["Master system design", "Contribute to major open-source projects"]
 };
 ```
 
@@ -130,7 +165,7 @@ const sahil = {
 
 ---
 
-## 🤝 Let's Connect
+## 🌐 Connect With Me
 
 <div align="center">
 
@@ -154,13 +189,24 @@ const sahil = {
 
 <br>
 
-<!-- Footer Animation -->;
+---
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38B2AC&center=true&vCenter=true&random=false&width=600&lines=Always+learning%2C+building%2C+exploring;Open+to+collaboration+%F0%9F%A4%9D;Let's+build+something+amazing!+%F0%9F%9A%80" alt="Footer" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38B2AC&center=true&vCenter=true&random=false&width=600&lines=Always+learning%2C+building%2C+exploring+%F0%9F%9A%80;Open+to+collaboration+and+new+opportunities;Let's+create+something+amazing+together!" alt="Footer" />
+
 </div>
 
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=sahil2448&color=3B82F6&style=for-the-badge" alt="Profile Views"/>
+
+</div>
+
+---
+
+<div align="center">
+
+⭐️ **From [sahil2448](https://github.com/sahil2448) | Built with 💙 and ☕**
 
 </div>
