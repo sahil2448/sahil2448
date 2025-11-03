@@ -169,19 +169,19 @@ const sahil = {
 
 <div align="center">
 
-<a href="https://linkedin.com/in/sahilyuvrajkamble">
+<a href="https://www.linkedin.com/in/sahil-kamble-43b3ba279/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/sahil2448">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://yourportfolio.com">
+<a href="https://portfolio-ten-opal-85.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
-<a href="mailto:your.email@example.com">
+<a href="mailto:sahil.kamble.work@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="https://codeforces.com/profile/yourusername">
+<a href="https://codeforces.com/profile/sahil_2448_coder">
   <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
 </a>
 
