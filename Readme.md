@@ -19,7 +19,7 @@
 <td align="center" width="50%">
 
 **🎓 Education**  
-Chemical Engineering  
+Btech, Chemical Engineering  
 IIT Roorkee
 
 </td>
