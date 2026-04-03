@@ -84,22 +84,6 @@ I'm a passionate software developer and third-year Chemical Engineering student 
 
 </div>
 
----
-
-## 🎯 Current Focus
-
-<div align="center">
-
-```javascript
-const sahil = {
-  currentlyLearning: ["AI/ML", "WebRTC", "Competitive Programming"],
-  workingOn: ["Slotify - Smart Scheduling App", "Personal Portfolio v3"],
-  lookingFor: ["SDE Internships", "Open Source Collaborations"],
-  goals2025: ["Master system design", "Contribute to major open-source projects"]
-};
-```
-
-</div>
 
 ---
 
@@ -141,10 +125,3 @@ const sahil = {
 
 </div>
 
----
-
-<div align="center">
-
-⭐️ **From [sahil2448](https://github.com/sahil2448) | Built with 💙 and ☕**
-
-</div>
