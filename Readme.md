@@ -14,15 +14,6 @@
 
 I'm a passionate software developer and third-year Chemical Engineering student at IIT Roorkee, with a strong focus on full-stack development and competitive programming. I thrive on building meaningful digital products that solve real-world problems.
 
-**What drives me:**
-- 💡 Creating impactful web applications with modern technologies
-- 🧠 Tackling complex algorithmic challenges
-- 🌐 Contributing to open-source projects and tech communities
-- 🤝 Collaborating on innovative ideas and meaningful projects
-- 📚 Continuous learning and skill development
-
----
-
 ## 🛠️ Technical Skills
 
 <div align="center">
@@ -70,46 +61,6 @@ I'm a passionate software developer and third-year Chemical Engineering student 
 </p>
 
 </div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sahil2448&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sahil2448&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil2448&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9" alt="Top Languages" height="170"/>
-
-</div>
-
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/sahil-kamble-43b3ba279/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/sahil2448">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://portfolio-ten-opal-85.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="mailto:sahil.kamble.work@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://codeforces.com/profile/sahil_2448_coder">
-  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
-</a>
-
-</div>
-
-<br>
 
 ---
 
