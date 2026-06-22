@@ -15,9 +15,11 @@
 I'm a Chemical Engineering undergraduate at **IIT Roorkee** (Class of 2027) who pivoted into software engineering, with a focus on **full-stack development** and applied **GenAI/RAG systems**. I enjoy building products end-to-end — from REST APIs and real-time infrastructure to AI-powered features — and I'm currently looking for full-time SDE / AI Engineer roles.
 
 - 🎓 **B.Tech, Chemical Engineering** — IIT Roorkee (2023 – 2027)
-- 💼 **Software Development Intern** @ Jivika (Healthtech)
+- 💼 **Software Development Intern** @ Jivika (AI-Native Hiring Platform)
 - 🌱 **Open-source contributor** @ [FlowiseAI](https://github.com/FlowiseAI/Flowise) (YC S23) — 3 merged PRs on a 53k+ ⭐ repo
-- 🏆 **Top 6%** on LeetCode · **Specialist** on Codeforces
+- 🏆 **Specialist** on Codeforces.
+- 🏆 **Top 6%** on LeetCode Globaly· 
+- 🏆 **3 Star** on Codechef.
 
 ---
 
