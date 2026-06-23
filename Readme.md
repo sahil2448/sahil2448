@@ -20,7 +20,7 @@ I'm a Chemical Engineering undergraduate at **IIT Roorkee** (Class of 2027) who 
 - 🏆 **Specialist** on Codeforces.
 - 🏆 **Top 6%** on LeetCode Globaly· 
 - 🏆 **3 Star** on Codechef.
-
+- 💼 **Portfolio** : https://portfolio-ten-opal-85.vercel.app/
 ---
 
 ## 🚀 Featured Projects
