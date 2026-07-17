@@ -44,7 +44,7 @@ A GitHub-style platform built from scratch with a custom CLI for version control
 - Designed a **Gemini + Pinecone RAG pipeline** that embeds issue text (768-dim, title-weighted) to flag semantic duplicates above a 0.82 cosine-similarity threshold, **cutting manual triage by 40%**.
 - Engineered a **Socket.IO** notification layer with private per-user rooms, delivering instant cross-session alerts for stars, follows, and issue activity — eliminating client-side polling entirely.
 - Implemented secure **JWT authentication** and React/TypeScript workflows for repo CRUD, starring, following, and a GitHub-style contribution heatmap, **improving state sync speed by 35%**.
-- Deployed frontend  on AWS Amplify with environment-based configuration, and backend of EC2 Instance shipping a fully working live demo.
+- Deployed frontend  on AWS Amplify with environment-based configuration, and backend on EC2 Instance, shipping a fully working live demo.
 
 🔗 [Live Demo](https://main.d1zjk4pi7u9tt9.amplifyapp.com/) &nbsp;·&nbsp; 📂 [Repository](https://github.com/sahil2448/RepoFlow)
 
