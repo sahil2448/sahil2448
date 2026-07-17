@@ -40,10 +40,11 @@ A GitHub-style platform built from scratch with a custom CLI for version control
 
 - Architected a full-stack VCS platform with **23+ REST API endpoints** across **4 MongoDB models**, covering repositories, issues, commits, and notifications.
 - Built a custom **Git-like CLI** (`init`, `add`, `commit`, `push`, `pull`, `revert`) with local staging and UUID-based commit versioning, pushing payloads up to **50MB** to AWS S3 with automatic MongoDB fallback.
+- Developed a **WebRTC - Peer Review** feature where every commit can be reviewed instantly by sharing real time video meet link with teammate or a manager etc.  
 - Designed a **Gemini + Pinecone RAG pipeline** that embeds issue text (768-dim, title-weighted) to flag semantic duplicates above a 0.82 cosine-similarity threshold, **cutting manual triage by 40%**.
 - Engineered a **Socket.IO** notification layer with private per-user rooms, delivering instant cross-session alerts for stars, follows, and issue activity — eliminating client-side polling entirely.
 - Implemented secure **JWT authentication** and React/TypeScript workflows for repo CRUD, starring, following, and a GitHub-style contribution heatmap, **improving state sync speed by 35%**.
-- Deployed the frontend on AWS Amplify with environment-based configuration, shipping a fully working live demo.
+- Deployed frontend  on AWS Amplify with environment-based configuration, and backend of EC2 Instance shipping a fully working live demo.
 
 🔗 [Live Demo](https://main.d1zjk4pi7u9tt9.amplifyapp.com/) &nbsp;·&nbsp; 📂 [Repository](https://github.com/sahil2448/RepoFlow)
 
