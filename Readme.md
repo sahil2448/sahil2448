@@ -21,7 +21,7 @@ I'm a Chemical Engineering undergraduate at **IIT Roorkee** (Class of 2027) who 
 - 🏆 **Top 6%** on LeetCode Globaly· 
 - 🏆 **3 Star** on Codechef.
 - 💼 **Portfolio** : https://portfolio-ten-opal-85.vercel.app/
-- **Email** : sahil_yk@ch.iitr.ac.in
+- **Email** : sahil.kamble.work@gmail.com
 ---
 
 ## 🚀 Featured Projects
