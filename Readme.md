@@ -26,7 +26,7 @@ I'm a Chemical Engineering undergraduate at **IIT Roorkee** (Class of 2027) who 
 
 ## 🚀 Featured Projects
 
-### 🗂️ RepoFlow — Full-Stack GitHub Alternative
+### 🗂️ RepoFlow — AI Powered Version Control System (Github Alternative)
 
 <p>
   <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
@@ -70,6 +70,7 @@ A production-grade, server-rendered admin dashboard for managing an e-commerce c
 - Integrated **AWS S3 presigned URLs** for direct browser-to-S3 image uploads (up to 8 images/product) with automatic cleanup on deletion — removing server bandwidth overhead.
 - Built an **AI description generator** via the OpenRouter API with a 3-model fallback chain (LLaMA 3.2, Gemini 2.0 Flash, Phi-3 Mini), plus a real-time analytics suite using MongoDB aggregations powering **4 Recharts dashboards** for 90-day sales and low-stock trends.
 - Authored a database seeding script generating 25 sample products and 90 days of order data for realistic demo/testing.
+- Optimized SEO of web application for Bots as well as AI Crawlers.
 
 🔗 [Live Demo](https://ssr-ecommerce-admin-dashboard-bfev.vercel.app/) &nbsp;·&nbsp; 📂 [Repository](https://github.com/sahil2448/ssr-ecommerce-admin-dashboard)
 
