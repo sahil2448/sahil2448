@@ -46,8 +46,9 @@ A GitHub-style platform built from scratch with a custom CLI for version control
 - Engineered a **Socket.IO** notification layer with private per-user rooms, delivering instant cross-session alerts for stars, follows, and issue activity — eliminating client-side polling entirely.
 - Implemented secure **JWT authentication** and React/TypeScript workflows for repo CRUD, starring, following, and a GitHub-style contribution heatmap, **improving state sync speed by 35%**.
 - Deployed frontend  on AWS Amplify with environment-based configuration, and backend on EC2 Instance, shipping a fully working live demo.
-
-🔗 [Live Demo](https://main.d1zjk4pi7u9tt9.amplifyapp.com/) &nbsp;·&nbsp; 📂 [Repository](https://github.com/sahil2448/RepoFlow)
+📂 [Repository](https://github.com/sahil2448/RepoFlow)
+🔗 [Live Video Demo](https://main.d1zjk4pi7u9tt9.amplifyapp.com/) &nbsp;·&nbsp;
+🔗 [Live Deployed URL (AWS-Amplify)](https://main.d1zjk4pi7u9tt9.amplifyapp.com/) &nbsp;·&nbsp; 
 
 <br>
 
