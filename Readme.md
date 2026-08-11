@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Chemical Engineering undergraduate at **IIT Roorkee** (Class of 2027) who pivoted into software engineering, with a focus on **full-stack development** and applied **GenAI/RAG systems**. I enjoy building products end-to-end — from REST APIs and real-time infrastructure to AI-powered features — and I'm currently looking for full-time SDE / AI Engineer roles.
+I'm a Chemical Engineering undergraduate at **IIT Roorkee** (Class of 2027) who pivoted into software engineering, with a focus on **Applied AI Software Engineering**. I enjoy building products end-to-end — from REST APIs and real-time infrastructure to AI-powered features — and I'm currently looking for full-time SDE / AI Engineer roles.
 
 - 🎓 **B.Tech, Chemical Engineering** — IIT Roorkee (2023 – 2027)
 - 💼 **Software Development Intern** @ Jivika (AI-Native Hiring Platform)
