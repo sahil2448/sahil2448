@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=32&pause=50&color=26ec50&center=true&vCenter=true&random=false&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Sahil+Yuvraj+Kamble!;Full-Stack+AI+Engineer+%7C+Problem+Solver;4th+Year+%40+IIT+Roorkee+%F0%9F%8F%9B%EF%B8%8F;Building+Products+That+Matter+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=32&pause=50&color=26ec50&center=true&vCenter=true&random=false&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Sahil+Yuvraj+Kamble!;Full-Stack+AI+Engineer+%7C+Problem+Solver;4th+Year+%40+IIT+Roorkee+%F0%9F%8F%9B%EF%B8%8F;Building+Impactful+Products+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 <br>
