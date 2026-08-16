@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:6366F1,100:22D3EE&amp;height=170&amp;section=header&amp;text=Sahil%20Yuvraj%20Kamble&amp;fontSize=38&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=Applied%20AI%20Software%20Engineer%20%7C%20Full-Stack%20%26%20Agentic%20AI%20Systems&amp;descAlignY=62&amp;descSize=16&amp;descColor=F5F5F5" width="100%"/>
+<div align="center">
+  <h1 style="color:#0040ff;">Hi 👋, I'm Sahil Yuvraj Kamble!</h1>
+  <h3 style="color:#0040ff;">Full-Stack AI Engineer | Agentic AI Systems | Problem Solver</h3>
+</div>
 
 Building production-grade web platforms with AI woven into the core — from autonomous agent workflows to real-time collaboration infra. Open to **Applied AI Software Engineering / Applied AI Full-Stack Engineering** roles.
 
