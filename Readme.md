@@ -5,7 +5,7 @@
   <h3 style="color:#0040ff;">Full-Stack AI Engineer | Agentic AI Systems | Problem Solver</h3>
 </div>
 
-Building production-grade web platforms with AI woven into the core — from autonomous agent workflows to real-time collaboration infra. Open to **Applied AI Software Engineering / Applied AI Full-Stack Engineering** roles.
+Building production-grade web platforms with AI woven into the core — from autonomous agent workflows to real-time collaboration infra. Open to **Applied AI Software / Full-Stack Engineering** roles.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-ten-opal-85.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sahil.kamble.work@gmail.com)
