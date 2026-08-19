@@ -27,7 +27,7 @@ Building production-grade web platforms with AI woven into the core — from aut
 
 ## Featured Projects
 
-### 🗂️ RepoFlow — AI-Powered Git Platform (GitHub Alternative)
+### 🗂️ RepoFlow — AI-Powered Version Control System (GitHub Alternative)
 
 <p>
 <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB"/>
