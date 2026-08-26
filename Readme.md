@@ -18,7 +18,7 @@ Building production-grade web platforms with AI woven into the core — from aut
 ## About Me
 
 - 🎓 B.Tech, Chemical Engineering @ **IIT Roorkee** (2023–2027) — pivoted into software engineering
-- 💻 Focus areas: full-stack web development (React/Next.js + Node.js) and applied AI — RAG pipelines, vector search, and agentic AI systems (LangGraph)
+- 💻 Focus areas: full-stack Engineering with applied AI — RAG pipelines, vector search, and agentic AI systems (LangGraph)
 - 💼 Software Development Intern @ **Jivika** — built an internal admin portal (Next.js SSR) for an AI-native hiring platform
 - 🌱 Open-source contributor @ [FlowiseAI](https://github.com/FlowiseAI/Flowise) (YC S23, 53k★) — 3 merged PRs
 - 🏆 Codeforces Specialist · Top 6% on LeetCode Globally · 3★ on CodeChef
