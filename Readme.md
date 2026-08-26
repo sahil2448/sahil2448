@@ -1,14 +1,14 @@
 <div align="center">
 
 <div align="center">
-  <h1 style="color:#0040ff;">Hi 👋, I'm Sahil Yuvraj Kamble!</h1>
-  <h3 style="color:#0040ff;">Full-Stack AI Engineer | Agentic AI Systems | Problem Solver</h3>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=700&size=34&duration=600&pause=1000&color=fcfbfa&center=true&vCenter=true&width=650&height=55&repeat=false&lines=Hi+%F0%9F%91%8B%2C+I'm+Sahil+Yuvraj+Kamble!" alt="Sahil Yuvraj Kamble" />
+
+<img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=600&size=18&duration=500&pause=1000&color=88f00a&center=true&vCenter=true&width=650&height=30&repeat=false&lines=Full-Stack+AI+Engineer+%7C+Agentic+AI+Systems+%7C+Problem+Solver" alt="Full-Stack AI Engineer | Agentic AI Systems | Problem Solver" />
+
+[Portfolio](https://portfolio-ten-opal-85.vercel.app/) &nbsp;|&nbsp; [sahil.kamble.work@gmail.com](mailto:sahil.kamble.work@gmail.com) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/sahil-kamble-43b3ba279/)
+
 </div>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-ten-opal-85.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sahil.kamble.work@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-kamble-43b3ba279/)
-
 </div>
 
 <br>
