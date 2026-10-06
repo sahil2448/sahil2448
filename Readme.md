@@ -16,7 +16,7 @@
 ## About Me
 
 - 🎓 B.Tech, Chemical Engineering @ **IIT Roorkee** (2023–2027) — pivoted into software engineering
-- 💻 Focus areas: full-stack Engineering with applied AI — agentic AI systems (LangGraph)
+- 💻 Focus areas: full-stack Engineering with applied AI — agentic AI systems (Langchain & LangGraph)
 - 💼 Software Development Intern @ **Jivika** — optimized features on companies internal admin portal (Next.js, Node.js) for an AI-native hiring platform
 - 🌱 Open-source contributor @ [FlowiseAI](https://github.com/FlowiseAI/Flowise) (YC S23, 53k★) — 3 merged PRs
 - 🏆 Specialist on Codeforces
