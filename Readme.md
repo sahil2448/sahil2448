@@ -49,7 +49,7 @@ A GitHub-style platform built from scratch: custom CLI for version control, AI-p
 - Added **WebRTC peer review**: any commit can be reviewed live over a shared video call
 - JWT-secured REST API; deployed on AWS Amplify (frontend) + EC2 (backend)
 
-📂 [Repo](https://github.com/sahil2448/RepoFlow) · 🎥 [Demo Video](https://drive.google.com/file/d/1kclURA520SmDoM05o3Skc294tdsIHdTn/view?usp=sharing) · 🔗 [Live App](https://main.d1zjk4pi7u9tt9.amplifyapp.com/)
+📂 [Repo](https://github.com/sahil2448/RepoFlow) · 🎥 [Demo Video](https://drive.google.com/file/d/1-U3LDvXbia_8QtzZlOFRlFdBKYkE7OMW/view?usp=drive_link) · 🔗 [Live App](https://main.d1zjk4pi7u9tt9.amplifyapp.com/)
 
 <br>
 
