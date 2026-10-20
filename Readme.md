@@ -42,7 +42,7 @@
 
 A GitHub-style platform built from scratch: custom CLI for version control, AI-powered duplicate-issue detection, and real-time collaboration.
 
-- Architected a full-stack VCS with **23+ REST endpoints** across 4 MongoDB models — repos, issues, commits, notifications
+- Architected a full-stack VCS with **35 REST endpoints** across 4 MongoDB models — repos, issues, commits, notifications
 - Built a custom **Git-like CLI** (`init` / `add` / `commit` / `push` / `pull` / `revert`) with local staging, pushing payloads up to 50MB to AWS S3
 - Designed a **Gemini + Pinecone RAG pipeline** over issue text to flag semantic duplicates, **cutting manual triage by 40%**
 - Built a **Socket.IO** notification layer with private per-user rooms — instant cross-session alerts, zero client-side polling
