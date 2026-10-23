@@ -53,7 +53,7 @@ A GitHub-style platform built from scratch: custom CLI for version control, AI-p
 
 <br>
 
-### 🛒 SSR E-Commerce Admin Dashboard
+### 🛒 SSR E-Commerce Admin Management Dashboard
 
 <p>
 <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white"/>
