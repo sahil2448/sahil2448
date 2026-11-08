@@ -18,7 +18,7 @@
 - 🎓 B.Tech at **IIT Roorkee** (2023–2027)
 - 💻 Focus areas: Software Engineering with applied AI — agentic AI systems (Langchain & LangGraph)
 - 💼 Software Development Intern @ **Jivika** — optimized features on companies internal admin portal (Next.js, Node.js) for an AI-native hiring platform
-- 🌱 Open-source contributor @ [FlowiseAI](https://github.com/FlowiseAI/Flowise) (YC S23, 53k★) — 3 merged PRs
+- 🌱 Open-source contributor @ [FlowiseAI](https://github.com/FlowiseAI/Flowise) (YC S23, 53k★) — Several PRs Merged
 - 🏆 Specialist on Codeforces
 - 🏆 Top 6% on LeetCode Globally
 - 🏆 3★ on CodeChef
