@@ -29,7 +29,7 @@ I build full-stack products with applied AI at the core: RAG pipelines, agentic 
 
 ## Featured Projects
 
-### RepoFlow: AI-Powered Version Control (GitHub Alternative)
+### RepoFlow: AI-Powered Version Control
 
 <img src="https://img.shields.io/badge/React_19-0F172A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&logo=typescript&logoColor=3178C6"/> <img src="https://img.shields.io/badge/Node.js-0F172A?style=flat-square&logo=nodedotjs&logoColor=339933"/> <img src="https://img.shields.io/badge/MongoDB-0F172A?style=flat-square&logo=mongodb&logoColor=47A248"/> <img src="https://img.shields.io/badge/Socket.IO-0F172A?style=flat-square&logo=socketdotio&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini-0F172A?style=flat-square&logo=googlegemini&logoColor=8E75B2"/> <img src="https://img.shields.io/badge/Pinecone-0F172A?style=flat-square&logo=pinecone&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-0F172A?style=flat-square&logo=amazonaws&logoColor=FF9900"/>
 
