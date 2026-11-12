@@ -1,15 +1,14 @@
 <div align="center">
 
-# Sahil Yuvraj Kamble
+<div align="center">
 
-**Applied AI Software Engineer** · Aspiring Forward Deployed Engineer
+<img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=700&size=34&duration=600&pause=1000&color=f6fcf5&center=true&vCenter=true&width=650&height=55&repeat=false&lines=Hi+%F0%9F%91%8B%2C+I'm+Sahil+Yuvraj+Kamble!" alt="Sahil Yuvraj Kamble" />
 
-B.Tech, IIT Roorkee (2023–2027)
+<img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=600&size=18&duration=500&pause=1000&color=11d6c9&center=true&vCenter=true&width=650&height=30&repeat=false&lines=Applied+AI+Software+Engineer+%7C+Aspiring+Forward+Deployed+Engineer" alt="Applied AI Software Engineer | Aspiring Forward Deployed Engineer" />
 
-<a href="https://portfolio-ten-opal-85.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/sahil-kamble-43b3ba279/"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:sahil.kamble.work@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+[Portfolio](https://portfolio-ten-opal-85.vercel.app/) &nbsp;|&nbsp; [sahil.kamble.work@gmail.com](mailto:sahil.kamble.work@gmail.com) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/sahil-kamble-43b3ba279/)
 
+</div>
 </div>
 
 <br>
