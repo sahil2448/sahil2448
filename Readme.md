@@ -1,155 +1,106 @@
 <div align="center">
 
-<div align="center">
+# Sahil Yuvraj Kamble
 
-<img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=700&size=34&duration=600&pause=1000&color=f6fcf5&center=true&vCenter=true&width=650&height=55&repeat=false&lines=Hi+%F0%9F%91%8B%2C+I'm+Sahil+Yuvraj+Kamble!" alt="Sahil Yuvraj Kamble" />
+**Applied AI Software Engineer** · Aspiring Forward Deployed Engineer
 
-<img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=600&size=18&duration=500&pause=1000&color=11d6c9&center=true&vCenter=true&width=650&height=30&repeat=false&lines=Applied AI Software Engineer%7C+Aspiring+Forward+Deployed+Engineer" alt="Applied AI Software Engineer | Aspiring Forward Deployed Engineer" />
+B.Tech, IIT Roorkee (2023–2027)
 
-[Portfolio](https://portfolio-ten-opal-85.vercel.app/) &nbsp;|&nbsp; [sahil.kamble.work@gmail.com](mailto:sahil.kamble.work@gmail.com) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/sahil-kamble-43b3ba279/)
+<a href="https://portfolio-ten-opal-85.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/sahil-kamble-43b3ba279/"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:sahil.kamble.work@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-</div>
 </div>
 
 <br>
 
-## About Me
+## About
 
-- 🎓 B.Tech at **IIT Roorkee** (2023–2027)
-- 💻 Focus areas: Software Engineering with applied AI — agentic AI systems (Langchain & LangGraph)
-- 💼 Software Development Intern @ **Jivika** — optimized features on companies internal admin portal (Next.js, Node.js) for an AI-native hiring platform
-- 🌱 Open-source contributor @ [FlowiseAI](https://github.com/FlowiseAI/Flowise) (YC S23, 53k★) — Several PRs Merged
-- 🏆 Specialist on Codeforces
-- 🏆 Top 6% on LeetCode Globally
-- 🏆 3★ on CodeChef
+I build full-stack products with applied AI at the core: RAG pipelines, agentic systems with LangChain and LangGraph, and the web infrastructure around them. I like owning a feature end to end, from the database schema to the deployed UI.
+
+| | |
+|:--|:--|
+| **Experience** | Software Development Intern at **Jivika**, an AI-native hiring platform. Optimized features on the company's internal admin portal (Next.js, Node.js). |
+| **Open source** | Contributor to [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) (YC S23, 53k stars). Several PRs merged. |
+| **Problem solving** | Specialist on Codeforces · Top 6% globally on LeetCode · 3-star on CodeChef |
+| **Currently** | Building AI agents with LangGraph |
 
 <br>
 
 ## Featured Projects
 
-### 🗂️ RepoFlow — AI-Powered Version Control System (GitHub Alternative)
+### RepoFlow: AI-Powered Version Control (GitHub Alternative)
 
-<p>
-<img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&amp;logo=mongodb&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&amp;logo=socketdotio&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&amp;logo=googlegemini&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&amp;logo=amazonaws&amp;logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/React_19-0F172A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&logo=typescript&logoColor=3178C6"/> <img src="https://img.shields.io/badge/Node.js-0F172A?style=flat-square&logo=nodedotjs&logoColor=339933"/> <img src="https://img.shields.io/badge/MongoDB-0F172A?style=flat-square&logo=mongodb&logoColor=47A248"/> <img src="https://img.shields.io/badge/Socket.IO-0F172A?style=flat-square&logo=socketdotio&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini-0F172A?style=flat-square&logo=googlegemini&logoColor=8E75B2"/> <img src="https://img.shields.io/badge/Pinecone-0F172A?style=flat-square&logo=pinecone&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-0F172A?style=flat-square&logo=amazonaws&logoColor=FF9900"/>
 
-A GitHub-style platform built from scratch: custom CLI for version control, AI-powered duplicate-issue detection, and real-time collaboration.
+A GitHub-style platform built from scratch, with a custom CLI for version control, AI-powered duplicate issue detection, and real-time collaboration.
 
-- Architected a full-stack VCS with **35 REST endpoints** across 4 MongoDB models — repos, issues, commits, notifications
-- Built a custom **Git-like CLI** (`init` / `add` / `commit` / `push` / `pull` / `revert`) with local staging, pushing payloads up to 50MB to AWS S3
+- Architected a full-stack VCS with **35 REST endpoints** across 4 MongoDB models: repos, issues, commits, notifications
+- Built a Git-like CLI (`init`, `add`, `commit`, `push`, `pull`, `revert`) with local staging and payloads up to 50 MB pushed to AWS S3
 - Designed a **Gemini + Pinecone RAG pipeline** over issue text to flag semantic duplicates, **cutting manual triage by 40%**
-- Built a **Socket.IO** notification layer with private per-user rooms — instant cross-session alerts, zero client-side polling
-- Added **WebRTC peer review**: any commit can be reviewed live over a shared video call
-- JWT-secured REST API; deployed on AWS Amplify (frontend) + EC2 (backend)
+- Built a Socket.IO notification layer with private per-user rooms for instant cross-session alerts and zero client-side polling
+- Added WebRTC peer review so any commit can be reviewed live over a shared video call
+- JWT-secured API, deployed on AWS Amplify (frontend) and EC2 (backend)
 
-📂 [Repo](https://github.com/sahil2448/RepoFlow) · 🎥 [Demo Video](https://drive.google.com/file/d/1-U3LDvXbia_8QtzZlOFRlFdBKYkE7OMW/view?usp=drive_link) · 🔗 [Live App](https://main.d1zjk4pi7u9tt9.amplifyapp.com/)
+<a href="https://github.com/sahil2448/RepoFlow"><img src="https://img.shields.io/badge/Repo-0F172A?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://drive.google.com/file/d/1-U3LDvXbia_8QtzZlOFRlFdBKYkE7OMW/view?usp=drive_link"><img src="https://img.shields.io/badge/Demo_Video-2563EB?style=flat-square"/></a> <a href="https://main.d1zjk4pi7u9tt9.amplifyapp.com/"><img src="https://img.shields.io/badge/Live_App-2563EB?style=flat-square"/></a>
 
 <br>
 
-### 🛒 SSR E-Commerce Admin Management Dashboard
+### SSR E-Commerce Admin Dashboard
 
-<p>
-<img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&amp;logo=mongodb&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/NextAuth.js-000000?style=flat-square&amp;logo=auth0&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS_S3-FF9900?style=flat-square&amp;logo=amazonaws&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&amp;logo=tailwind-css&amp;logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/Next.js_16-0F172A?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&logo=typescript&logoColor=3178C6"/> <img src="https://img.shields.io/badge/MongoDB-0F172A?style=flat-square&logo=mongodb&logoColor=47A248"/> <img src="https://img.shields.io/badge/NextAuth.js-0F172A?style=flat-square&logo=auth0&logoColor=white"/> <img src="https://img.shields.io/badge/AWS_S3-0F172A?style=flat-square&logo=amazons3&logoColor=FF9900"/> <img src="https://img.shields.io/badge/Docker-0F172A?style=flat-square&logo=docker&logoColor=2496ED"/> <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38B2AC"/>
 
 A production-grade, server-rendered catalog admin panel with role-based access, AI content generation, and live analytics.
 
-- Built a **server-side rendered** dashboard in **Next.js 16** (App Router + Server Components) with full CRUD for 25+ SKUs, cutting initial load time by **40%**
-- Implemented multi-provider auth (Email, GitHub, Google) via **NextAuth.js v5** with **3-tier RBAC** enforced through middleware route protection
-- Integrated **AWS S3 presigned URLs** for direct browser-to-S3 image uploads, removing all server bandwidth overhead
-- Built an **AI description generator** on OpenRouter with a 3-model fallback chain (LLaMA 3.2, Gemini 2.0 Flash, Phi-3 Mini)
-- Shipped a real-time analytics suite (MongoDB aggregations → 4 Recharts dashboards) for 90-day sales and low-stock trends
-- Dockerized with multi-stage builds (**75% smaller image**); SSR metadata tuned for AI-crawler and social-share SEO
+- Built a server-side rendered dashboard in **Next.js 16** (App Router, Server Components) with full CRUD for 25+ SKUs, cutting initial load time by **40%**
+- Implemented multi-provider auth (Email, GitHub, Google) with **NextAuth.js v5** and **3-tier RBAC** enforced in middleware
+- Used **AWS S3 presigned URLs** for direct browser-to-S3 image uploads, removing server bandwidth overhead
+- Built an AI description generator on OpenRouter with a 3-model fallback chain (LLaMA 3.2, Gemini 2.0 Flash, Phi-3 Mini)
+- Shipped a real-time analytics suite (MongoDB aggregations feeding 4 Recharts dashboards) for 90-day sales and low-stock trends
+- Dockerized with multi-stage builds for a **75% smaller image**, with SSR metadata tuned for AI-crawler and social-share SEO
 
-🔗 [Live Demo](https://ssr-ecommerce-admin-dashboard-bfev.vercel.app/) · 📂 [Repo](https://github.com/sahil2448/ssr-ecommerce-admin-dashboard)
+<a href="https://github.com/sahil2448/ssr-ecommerce-admin-dashboard"><img src="https://img.shields.io/badge/Repo-0F172A?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://ssr-ecommerce-admin-dashboard-bfev.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square"/></a>
 
 <br>
 
 ## Tech Stack
 
-**Languages**
-<p>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&amp;logo=openjdk&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&amp;logo=cplusplus&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white"/>
-</p>
-
-**Frontend**
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/Redux-593D88?style=flat-square&amp;logo=redux&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&amp;logo=tailwind-css&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&amp;logo=shadcnui&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/Material_UI-0081CB?style=flat-square&amp;logo=mui&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&amp;logo=greensock&amp;logoColor=black"/>
-</p>
-
-**Backend & Databases**
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&amp;logo=express&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&amp;logo=mongodb&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&amp;logo=postgresql&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&amp;logo=prisma&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&amp;logo=firebase&amp;logoColor=black"/>
-<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&amp;logo=socketdotio&amp;logoColor=white"/>
-</p>
-
-**AI / ML, Agents & Vector Search**
-<p>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&amp;logo=langchain&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&amp;logo=googlegemini&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenRouter-6C5CE7?style=flat-square&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&amp;logo=pytorch&amp;logoColor=white"/>
-</p>
-
-**Cloud & DevOps**
-<p>
-<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&amp;logo=amazonaws&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&amp;logo=vercel&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&amp;logo=visual-studio-code&amp;logoColor=white"/>
-</p>
+| | |
+|:--|:--|
+| **Languages** | <img src="https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&logo=typescript&logoColor=3178C6"/> <img src="https://img.shields.io/badge/JavaScript-0F172A?style=flat-square&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/Java-0F172A?style=flat-square&logo=openjdk&logoColor=ED8B00"/> <img src="https://img.shields.io/badge/C++-0F172A?style=flat-square&logo=cplusplus&logoColor=00599C"/> <img src="https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=3776AB"/> |
+| **Frontend** | <img src="https://img.shields.io/badge/React-0F172A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Next.js-0F172A?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Redux-0F172A?style=flat-square&logo=redux&logoColor=764ABC"/> <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38B2AC"/> <img src="https://img.shields.io/badge/shadcn/ui-0F172A?style=flat-square&logo=shadcnui&logoColor=white"/> <img src="https://img.shields.io/badge/Material_UI-0F172A?style=flat-square&logo=mui&logoColor=007FFF"/> <img src="https://img.shields.io/badge/GSAP-0F172A?style=flat-square&logo=greensock&logoColor=88CE02"/> |
+| **Backend and Data** | <img src="https://img.shields.io/badge/Node.js-0F172A?style=flat-square&logo=nodedotjs&logoColor=339933"/> <img src="https://img.shields.io/badge/Express-0F172A?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-0F172A?style=flat-square&logo=mongodb&logoColor=47A248"/> <img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=flat-square&logo=postgresql&logoColor=4169E1"/> <img src="https://img.shields.io/badge/Prisma-0F172A?style=flat-square&logo=prisma&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-0F172A?style=flat-square&logo=firebase&logoColor=FFCA28"/> <img src="https://img.shields.io/badge/Socket.IO-0F172A?style=flat-square&logo=socketdotio&logoColor=white"/> |
+| **AI and Agents** | <img src="https://img.shields.io/badge/LangChain-0F172A?style=flat-square&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/LangGraph-0F172A?style=flat-square&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini-0F172A?style=flat-square&logo=googlegemini&logoColor=8E75B2"/> <img src="https://img.shields.io/badge/Pinecone-0F172A?style=flat-square&logo=pinecone&logoColor=white"/> <img src="https://img.shields.io/badge/OpenRouter-0F172A?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-0F172A?style=flat-square&logo=pytorch&logoColor=EE4C2C"/> |
+| **Cloud and Tools** | <img src="https://img.shields.io/badge/AWS-0F172A?style=flat-square&logo=amazonaws&logoColor=FF9900"/> <img src="https://img.shields.io/badge/Docker-0F172A?style=flat-square&logo=docker&logoColor=2496ED"/> <img src="https://img.shields.io/badge/Vercel-0F172A?style=flat-square&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Git-0F172A?style=flat-square&logo=git&logoColor=F05032"/> <img src="https://img.shields.io/badge/VS_Code-0F172A?style=flat-square&logo=visualstudiocode&logoColor=007ACC"/> |
 
 <br>
 
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sahil2448&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil2448&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" />
-</div>
 
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=sahil2448&amp;theme=tokyonight&amp;hide_border=true" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sahil2448&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=60A5FA&icon_color=60A5FA&text_color=CBD5E1">
+  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=sahil2448&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=2563EB&icon_color=2563EB&text_color=334155">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil2448&layout=compact&theme=transparent&hide_border=true&title_color=60A5FA&text_color=CBD5E1">
+  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil2448&layout=compact&theme=transparent&hide_border=true&title_color=2563EB&text_color=334155">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=sahil2448&theme=transparent&hide_border=true&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=CBD5E1&currStreakNum=CBD5E1&sideNums=CBD5E1&dates=94A3B8">
+  <img alt="Contribution streak" src="https://streak-stats.demolab.com?user=sahil2448&theme=transparent&hide_border=true&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&sideLabels=334155&currStreakNum=334155&sideNums=334155&dates=64748B">
+</picture>
+
 </div>
 
 <br>
 
 <div align="center">
 
-**Open to full-time Applied AI Software Engineering / Applied AI Full-Stack Engineering roles — remote or in-office.**
-Reach out: [sahil.kamble.work@gmail.com](mailto:sahil.kamble.work@gmail.com) · [Portfolio](https://portfolio-ten-opal-85.vercel.app/)
+**Open to full-time Applied AI Software Engineering and Applied AI Full-Stack Engineering roles, remote or in-office.**
 
-<img src="https://komarev.com/ghpvc/?username=sahil2448&amp;color=3B82F6&amp;style=flat-square" alt="Profile Views"/>
+[Portfolio](https://portfolio-ten-opal-85.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/sahil-kamble-43b3ba279/) · [sahil.kamble.work@gmail.com](mailto:sahil.kamble.work@gmail.com)
 
 </div>
