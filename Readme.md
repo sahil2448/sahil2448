@@ -87,28 +87,22 @@ A production-grade, server-rendered catalog admin panel with role-based access, 
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sahil2448&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=60A5FA&icon_color=60A5FA&text_color=CBD5E1">
-  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=sahil2448&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=2563EB&icon_color=2563EB&text_color=334155">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil2448&layout=compact&theme=transparent&hide_border=true&title_color=60A5FA&text_color=CBD5E1">
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil2448&layout=compact&theme=transparent&hide_border=true&title_color=2563EB&text_color=334155">
-</picture>
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sahil2448&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil2448&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" />
+</div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=sahil2448&theme=transparent&hide_border=true&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=CBD5E1&currStreakNum=CBD5E1&sideNums=CBD5E1&dates=94A3B8">
-  <img alt="Contribution streak" src="https://streak-stats.demolab.com?user=sahil2448&theme=transparent&hide_border=true&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&sideLabels=334155&currStreakNum=334155&sideNums=334155&dates=64748B">
-</picture>
-
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=sahil2448&amp;theme=tokyonight&amp;hide_border=true" />
 </div>
 
 <br>
 
 <div align="center">
 
-**Open to full-time Applied AI Software Engineering and Applied AI Full-Stack Engineering roles, remote or in-office.**
+**Open to full-time Applied AI Software Engineering / Applied AI Full-Stack Engineering roles — remote or in-office.**
+Reach out: [sahil.kamble.work@gmail.com](mailto:sahil.kamble.work@gmail.com) · [Portfolio](https://portfolio-ten-opal-85.vercel.app/)
 
-[Portfolio](https://portfolio-ten-opal-85.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/sahil-kamble-43b3ba279/) · [sahil.kamble.work@gmail.com](mailto:sahil.kamble.work@gmail.com)
+<img src="https://komarev.com/ghpvc/?username=sahil2448&amp;color=3B82F6&amp;style=flat-square" alt="Profile Views"/>
 
 </div>
